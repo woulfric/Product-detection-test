@@ -1,0 +1,6 @@
+train : 'C:\Users\LEGION\Desktop\banks to banks\coca-cola\Data\dataset\split\train'
+test : 'C:\Users\LEGION\Desktop\banks to banks\coca-cola\Data\dataset\split\test'
+val : 'C:\Users\LEGION\Desktop\banks to banks\coca-cola\Data\dataset\split\val'
+
+nc : 3
+names : ["coca-cola CAN", "coca-cola GB", "coca-cola PB"]

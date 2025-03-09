@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "coca-cola CAN"
+    },
+    {
+      "id": 1,
+      "name": "coca-cola GB"
+    },
+    {
+      "id": 2,
+      "name": "coca-cola PB"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
